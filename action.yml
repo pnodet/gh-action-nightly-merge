@@ -1,4 +1,4 @@
-name: 'Nightly Merge'
+name: 'Auto-merge'
 description: 'Automatically merge the stable branch into the development one.'
 author: 'Daniele E. Domenichelli'
 branding:
